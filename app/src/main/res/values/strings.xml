@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework6java2</string>
+    <string name="Entrance">Войти</string>
+    <string name="Enter_password">Ведите пароль</string>
+    <string name="reg">выполните вход \n или зарегестрируйтесь.</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="entrence">Вход</string>
+    <string name="email">Введите вашу почту</string>
+</resources>
